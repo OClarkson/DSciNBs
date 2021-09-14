@@ -1,3 +1,3 @@
 # DSciNBs
 
-In this repo I have data science notebooks that I have created in going through "Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow"
+This repository has notebooks I am creating as part of teaching myself ML. 'courseowrk' has notebooks of notes from the Udemy course on Pandas and notebooks with worked ML projects from 'Hands-on Machine Learning with Scikit-learn and TensorFlow 2'. The rest is too self-explanatory.
